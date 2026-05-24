@@ -4,6 +4,9 @@ This plugin requires GI (GObject Introspection). Please make sure it is installe
 install  pi:[ https://pypi.org/project/PyGObject/](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 or you can ask chatGpt
 
+<img width="502" height="330" alt="plugins multi" src="https://github.com/user-attachments/assets/28b2ca03-9447-4511-98dc-3913a499faef" />
+
+
 ## what you get
 
      - add_display_param
@@ -49,7 +52,7 @@ your layers set descriptions to name 'clip'
 to mirror spline at center off point
 set your group of spline with name 'mirror'
 
-## del_double_pointbline
+## delete_double_pointbline
 
 will delete double point of bline
 
