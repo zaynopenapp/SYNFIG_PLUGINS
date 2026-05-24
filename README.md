@@ -25,7 +25,22 @@ add param display in bone
 ### split_bline
 
 set all param <split_radius> to active and <split_angle> to nonactive
-${\color{#58a6ff}This \space is \space GitHub \space blue}$
 
+### set_bone_with
+
+set param <width> and <tipwidth>
+
+### center_spline
+
+to move offset your spline to center screen
+
+### scale_spline_2x
+
+to scale your spline 2x
+
+### clip_bline
+
+to <param name="blend_method"> to ONTO
+your layers set descriptions to name 'clip'
 
 </details>
