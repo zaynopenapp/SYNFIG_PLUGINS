@@ -33,6 +33,7 @@ set param <width> and <tipwidth>
 ### center_spline
 
 to move offset your spline to center screen
+set your layer group with name 'greyed'
 
 ### scale_spline_2x
 
@@ -42,5 +43,15 @@ to scale your spline 2x
 
 to <param name="blend_method"> to ONTO
 your layers set descriptions to name 'clip'
+
+### mirror_bline
+
+to mirror spline at center off point
+set your group of spline with name 'mirror'
+
+## del_double_pointbline
+
+will delete double point of bline
+
 
 </details>
